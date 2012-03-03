@@ -1,0 +1,6 @@
+SilverlightClock is a simple Silverlight(v4) application
+  - an interactive clock.
+See http://msdn.microsoft.com/en-us/library/bb404709(v=VS.95).aspx
+  for description.
+
+SimpleServer is a very simple web server(for testing purposes).
